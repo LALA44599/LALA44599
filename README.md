@@ -11,8 +11,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/dist/arcade-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/dist/arcade-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade-fallback-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade-fallback-light.svg">
   <img alt="Animated contribution snake and AI robot" src="assets/arcade-fallback-dark.svg" width="100%">
 </picture>
 
