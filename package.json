@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-assets.mjs",
+    "build": "node scripts/build-assets.mjs && node scripts/build-showcase.mjs",
     "test": "node --test tests/profile.test.mjs",
-    "check:generated": "git ls-files --error-unmatch assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg && git diff --exit-code -- assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg",
+    "check:generated": "git ls-files --error-unmatch assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg assets/showcase-hero-dark.svg assets/showcase-hero-light.svg assets/showcase-work-dark.svg assets/showcase-work-light.svg && git diff --exit-code -- assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg assets/showcase-hero-dark.svg assets/showcase-hero-light.svg assets/showcase-work-dark.svg assets/showcase-work-light.svg",
     "verify": "npm run build && npm test && npm run check:generated"
   }
 }

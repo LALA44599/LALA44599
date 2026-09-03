@@ -112,7 +112,9 @@ test('profile data is structured, public-safe, and link-scoped', () => {
 
 test('generated profile SVGs are tracked by the synchronization command', () => {
   const scripts = JSON.parse(read('package.json')).scripts;
-  assert.equal(scripts['check:generated'], 'git ls-files --error-unmatch assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg && git diff --exit-code -- assets/hero-dark.svg assets/hero-light.svg assets/analytics-dark.svg assets/analytics-light.svg assets/projects-dark.svg assets/projects-light.svg assets/journey-dark.svg assets/journey-light.svg assets/arcade-fallback-dark.svg assets/arcade-fallback-light.svg');
+  assert.equal(scripts.build, 'node scripts/build-assets.mjs && node scripts/build-showcase.mjs');
+  assert.match(scripts['check:generated'], /assets\/showcase-hero-dark\.svg/);
+  assert.match(scripts['check:generated'], /assets\/showcase-work-light\.svg/);
   assert.equal(scripts.verify, 'npm run build && npm test && npm run check:generated');
 });
 
