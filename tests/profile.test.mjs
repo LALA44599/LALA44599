@@ -370,6 +370,7 @@ test('arcade workflow is daily, manual, scoped, and secret-free', () => {
   assert.match(workflow, /workflow_dispatch:/);
   assert.match(workflow, /permissions:\s*\r?\n\s+contents:\s+write\s*\r?\n\s*jobs:/);
   assert.match(workflow, /^\s*uses:\s*Platane\/snk\/svg-only@v3\s*$/m);
+  assert.match(workflow, /target_branch:\s*output/);
   assert.doesNotMatch(workflow, /PERSONAL_ACCESS_TOKEN|PAT:/);
   const secretReferences = [...workflow.matchAll(/secrets\.([A-Za-z0-9_]+)/gi)];
   for (const [, identifier] of secretReferences) assert.equal(identifier, 'GITHUB_TOKEN');
