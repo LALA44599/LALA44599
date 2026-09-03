@@ -168,13 +168,13 @@ ${journeyScene(p, false)}
 </g>`;
 
 const arcadeScene = (p, animated) => {
-  const grid = Array.from({ length: 84 }, (_, index) => {
-    const column = index % 14;
-    const row = Math.floor(index / 14);
+  const grid = Array.from({ length: 140 }, (_, index) => {
+    const column = index % 20;
+    const row = Math.floor(index / 20);
     const opacity = [0.08, 0.14, 0.22, 0.34][(index * 7 + row) % 4];
-    return `<rect x="${52 + column * 27}" y="${105 + row * 24}" width="18" height="16" rx="3" fill="${p.green}" fill-opacity="${opacity}"/>`;
+    return `<rect x="${52 + column * 27}" y="${99 + row * 24}" width="18" height="16" rx="3" fill="${p.green}" fill-opacity="${opacity}"/>`;
   }).join('');
-  const snakePositions = [[302, 164], [327, 164], [352, 164], [377, 164], [402, 164], [427, 188], [452, 212], [477, 212], [502, 212]];
+  const snakePositions = [[214, 147], [239, 147], [264, 147], [289, 147], [314, 147], [339, 147], [364, 147], [389, 171], [414, 195], [439, 195], [464, 195], [489, 195], [514, 171]];
   const snake = snakePositions.map(([x, y], index) => `<rect x="${x}" y="${y}" width="18" height="18" rx="5" fill="${index === snakePositions.length - 1 ? p.orange : p.cyan}" stroke="${p.bg}" stroke-width="2" filter="url(#softGlow)">${motion(animated, `<animateTransform attributeName="transform" type="translate" values="0 0;0 ${index % 2 ? -8 : 8};0 0" dur="1.8s" begin="${index * .12}s" repeatCount="indefinite"/>`)}</rect>`).join('');
   return `${panelFrame(p, 330, 'Contribution Arcade / Le serpent de Laouën', 'FALLBACK READY')}
 <g id="contribution-grid${animated ? '' : '-static'}">${grid}</g>
