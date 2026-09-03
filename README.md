@@ -41,7 +41,7 @@ De la maintenance et du diagnostic terrain à la conception de produits numériq
 ## Activité GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/dist/arcade-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/dist/arcade-light.svg">
-  <img alt="Contributions GitHub de Laouën Bernard" src="https://raw.githubusercontent.com/LALA44599/LALA44599/output/dist/arcade-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/arcade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LALA44599/LALA44599/output/arcade-light.svg">
+  <img alt="Contributions GitHub de Laouën Bernard" src="https://raw.githubusercontent.com/LALA44599/LALA44599/output/arcade-dark.svg" width="100%">
 </picture>
