@@ -1,0 +1,68 @@
+{
+  "identity": {
+    "name": "Laouën Bernard",
+    "handle": "LALA44599",
+    "location": "Nantes, France",
+    "roleFr": "Chef de projet digital & créateur de solutions IA",
+    "roleEn": "Digital Project Lead & AI Solutions Builder",
+    "introFr": "Je transforme des besoins métiers en produits numériques concrets, avec une approche nourrie par l'industrie, le commerce et l'intelligence artificielle.",
+    "introEn": "I build useful digital systems where business, industry and AI meet.",
+    "focus": "agents · automation · learning systems · B2B experiences · product intelligence"
+  },
+  "heroSkills": ["Python", "TypeScript", "Google Cloud", "Firebase", "Microsoft Azure", "ComfyUI", "VS Code / IDE", "Figma"],
+  "metrics": [
+    { "value": "13", "label": "Repositories", "note": "observed 2026-08-24" },
+    { "value": "26", "label": "AI modules", "note": "AI-901 learning path" },
+    { "value": "869", "label": "Questions", "note": "adaptive quiz bank" },
+    { "value": "990", "label": "AI concepts", "note": "interactive domain map" }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "kicker": "AI LEARNING LAB",
+      "title": "Comprendre l'intelligence artificielle",
+      "summary": "AI-901 courses, adaptive quizzes, interactive maps and a complete learning website.",
+      "facts": ["26 modules", "869 questions", "990 notions", "Python + Vite"],
+      "private": false
+    },
+    {
+      "id": "02",
+      "kicker": "SLIDE INTELLIGENCE",
+      "title": "Générateur intelligent de diaporamas",
+      "summary": "React and Flask application using Gemini to analyze, improve and quality-check presentations.",
+      "facts": ["React", "Flask", "Gemini API", "Quality critic"],
+      "private": false
+    },
+    {
+      "id": "03",
+      "kicker": "B2B DIGITAL EXPERIENCE",
+      "title": "Écosystème digital Secodi",
+      "summary": "UX/UI, B2B customer journeys, product content, analytics and CRM exploration.",
+      "facts": ["Private case study", "UX/UI", "Analytics", "Product data"],
+      "private": true
+    },
+    {
+      "id": "04",
+      "kicker": "INDUSTRIAL FOUNDATION",
+      "title": "From machines to intelligent systems",
+      "summary": "Industrial maintenance, hydraulics and field diagnosis translated into useful digital products.",
+      "facts": ["Maintenance", "Hydraulics", "Field logic", "B2B business"],
+      "private": false
+    }
+  ],
+  "journey": [
+    { "title": "Industrial field", "text": "Maintenance, diagnosis and technical interventions." },
+    { "title": "Technical commerce", "text": "B2B advice, customer needs, quotations and orders." },
+    { "title": "Digital projects", "text": "E-commerce, UX/UI, analytics and coordination." },
+    { "title": "AI systems", "text": "Automation, agents, learning and AI products." }
+  ],
+  "skills": {
+    "Development & IDE": ["Python", "JavaScript", "TypeScript", "React", "Vite", "Flask", "GitHub", "VS Code / IDE"],
+    "Cloud & AI Platforms": ["Google Cloud", "Firebase", "Microsoft Azure", "Microsoft Foundry", "Gemini API", "ComfyUI"],
+    "Product & Creative": ["Figma", "WordPress", "Google Analytics", "Remotion", "PowerPoint automation", "UX/UI"]
+  },
+  "links": {
+    "github": "https://github.com/LALA44599",
+    "linkedin": "https://fr.linkedin.com/in/laou%C3%ABn-bernard-901584212"
+  }
+}

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1180 270" role="img" aria-labelledby="journey-light-title journey-light-desc">
+  <title id="journey-light-title">Laouën Bernard — live digital profile</title>
+  <desc id="journey-light-desc">Animated bilingual command-center profile for Laouën Bernard.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087EA4"/><stop offset=".52" stop-color="#6D42D8"/><stop offset="1" stop-color="#07866F"/></linearGradient>
+    <filter id="softGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>.hero-static { display: none; } @media (prefers-reduced-motion: reduce) { .hero-animated { display: none; } .hero-static { display: inline; } }</style>
+  <g class="hero-animated">
+<!-- hero-animated:start -->
+<rect width="1180" height="270" rx="28" fill="#F7F9FC"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="242" rx="22" fill="#FFFFFF" stroke="#D7DFEC"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#F7F9FC"/>
+<path d="M38 72H1142" stroke="#D7DFEC"/>
+<circle cx="43" cy="43" r="5" fill="#C76A20"/><circle cx="61" cy="43" r="5" fill="#6D42D8"/><circle cx="79" cy="43" r="5" fill="#07866F"/>
+<text x="104" y="47" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">Journey / Mon parcours</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#07866F" fill-opacity=".08" stroke="#07866F" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#07866F" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#07866F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">ONE COHERENT EVOLUTION</text>
+<path d="M120 132H1060" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#softGlow)" stroke-dasharray="940" stroke-dashoffset="940"><animate attributeName="stroke-dashoffset" values="940;0" dur="2.8s" fill="freeze"/></path>
+<g id="journey-node-0">
+  <circle cx="120" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"><animate attributeName="r" values="14;19;14" dur="2.8s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="132" r="5" fill="#087EA4"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" begin="0s" repeatCount="indefinite"/></circle>
+  <text x="120" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Industrial field">Industrial field</text>
+  <text x="120" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="Maintenance, diagnosis and technical interventions."><tspan x="120" dy="0">Maintenance, diagnosis and</tspan><tspan x="120" dy="14">technical interventions.</tspan></text>
+</g><g id="journey-node-1">
+  <circle cx="433" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"><animate attributeName="r" values="14;19;14" dur="2.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="433" cy="132" r="5" fill="#6D42D8"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" begin="0.25s" repeatCount="indefinite"/></circle>
+  <text x="433" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Technical commerce">Technical commerce</text>
+  <text x="433" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="B2B advice, customer needs, quotations and orders."><tspan x="433" dy="0">B2B advice, customer needs,</tspan><tspan x="433" dy="14">quotations and orders.</tspan></text>
+</g><g id="journey-node-2">
+  <circle cx="746" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"><animate attributeName="r" values="14;19;14" dur="2.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="746" cy="132" r="5" fill="#07866F"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" begin="0.5s" repeatCount="indefinite"/></circle>
+  <text x="746" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Digital projects">Digital projects</text>
+  <text x="746" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="E-commerce, UX/UI, analytics and coordination."><tspan x="746" dy="0">E-commerce, UX/UI, analytics and</tspan><tspan x="746" dy="14">coordination.</tspan></text>
+</g><g id="journey-node-3">
+  <circle cx="1059" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"><animate attributeName="r" values="14;19;14" dur="2.8s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+  <circle cx="1059" cy="132" r="5" fill="#C76A20"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" begin="0.75s" repeatCount="indefinite"/></circle>
+  <text x="1059" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="AI systems">AI systems</text>
+  <text x="1059" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="Automation, agents, learning and AI products."><tspan x="1059" dy="0">Automation, agents, learning and</tspan><tspan x="1059" dy="14">AI products.</tspan></text>
+</g>
+<!-- hero-animated:end -->
+</g>
+<g class="hero-static">
+<!-- hero-static:start -->
+<rect width="1180" height="270" rx="28" fill="#F7F9FC"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="242" rx="22" fill="#FFFFFF" stroke="#D7DFEC"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#F7F9FC"/>
+<path d="M38 72H1142" stroke="#D7DFEC"/>
+<circle cx="43" cy="43" r="5" fill="#C76A20"/><circle cx="61" cy="43" r="5" fill="#6D42D8"/><circle cx="79" cy="43" r="5" fill="#07866F"/>
+<text x="104" y="47" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">Journey / Mon parcours</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#07866F" fill-opacity=".08" stroke="#07866F" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#07866F" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#07866F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">ONE COHERENT EVOLUTION</text>
+<path d="M120 132H1060" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#softGlow)" stroke-dasharray="940" stroke-dashoffset="0"></path>
+<g id="journey-node-0-static">
+  <circle cx="120" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"></circle>
+  <circle cx="120" cy="132" r="5" fill="#087EA4"></circle>
+  <text x="120" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Industrial field">Industrial field</text>
+  <text x="120" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="Maintenance, diagnosis and technical interventions."><tspan x="120" dy="0">Maintenance, diagnosis and</tspan><tspan x="120" dy="14">technical interventions.</tspan></text>
+</g><g id="journey-node-1-static">
+  <circle cx="433" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"></circle>
+  <circle cx="433" cy="132" r="5" fill="#6D42D8"></circle>
+  <text x="433" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Technical commerce">Technical commerce</text>
+  <text x="433" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="B2B advice, customer needs, quotations and orders."><tspan x="433" dy="0">B2B advice, customer needs,</tspan><tspan x="433" dy="14">quotations and orders.</tspan></text>
+</g><g id="journey-node-2-static">
+  <circle cx="746" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"></circle>
+  <circle cx="746" cy="132" r="5" fill="#07866F"></circle>
+  <text x="746" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="Digital projects">Digital projects</text>
+  <text x="746" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="E-commerce, UX/UI, analytics and coordination."><tspan x="746" dy="0">E-commerce, UX/UI, analytics and</tspan><tspan x="746" dy="14">coordination.</tspan></text>
+</g><g id="journey-node-3-static">
+  <circle cx="1059" cy="132" r="17" fill="#F7F9FC" stroke="url(#accent)" stroke-width="3" filter="url(#softGlow)"></circle>
+  <circle cx="1059" cy="132" r="5" fill="#C76A20"></circle>
+  <text x="1059" y="174" text-anchor="middle" fill="#111827" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="800" aria-label="AI systems">AI systems</text>
+  <text x="1059" y="197" text-anchor="middle" fill="#58667D" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5" aria-label="Automation, agents, learning and AI products."><tspan x="1059" dy="0">Automation, agents, learning and</tspan><tspan x="1059" dy="14">AI products.</tspan></text>
+</g>
+<!-- hero-static:end -->
+</g>
+</svg>

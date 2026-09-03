@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1180 610" role="img" aria-labelledby="projects-dark-title projects-dark-desc">
+  <title id="projects-dark-title">Laouën Bernard — live digital profile</title>
+  <desc id="projects-dark-desc">Animated bilingual command-center profile for Laouën Bernard.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#56E6FF"/><stop offset=".52" stop-color="#9A72FF"/><stop offset="1" stop-color="#42F5C5"/></linearGradient>
+    <filter id="softGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>.hero-static { display: none; } @media (prefers-reduced-motion: reduce) { .hero-animated { display: none; } .hero-static { display: inline; } }</style>
+  <g class="hero-animated">
+<!-- hero-animated:start -->
+<rect width="1180" height="610" rx="28" fill="#05060A"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="582" rx="22" fill="#0B0E16" stroke="#27304A"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#05060A"/>
+<path d="M38 72H1142" stroke="#27304A"/>
+<circle cx="43" cy="43" r="5" fill="#FFB16D"/><circle cx="61" cy="43" r="5" fill="#9A72FF"/><circle cx="79" cy="43" r="5" fill="#42F5C5"/>
+<text x="104" y="47" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">Selected Systems / Projets choisis</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#42F5C5" fill-opacity=".08" stroke="#42F5C5" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#42F5C5" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">PROOF OF WORK</text>
+<g>
+  <rect x="42" y="100" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M60 110H118M52 118V176" fill="none" stroke="#56E6FF" stroke-width="2" opacity=".9"/>
+  <circle cx="542" cy="127" r="5" fill="#56E6FF" filter="url(#softGlow)"><animate attributeName="r" values="3.5;6;3.5" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <text x="64" y="131" fill="#56E6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">AI LEARNING LAB</text>
+  <text x="522" y="131" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#01</text>
+  <text x="64" y="164" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Comprendre l&apos;intelligence artificielle"><tspan x="64" dy="0">Comprendre l&apos;intelligence artificielle</tspan></text>
+  <text x="64" y="211" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="AI-901 courses, adaptive quizzes, interactive maps and a complete learning website."><tspan x="64" dy="0">AI-901 courses, adaptive quizzes, interactive maps and a</tspan><tspan x="64" dy="16">complete learning website.</tspan></text>
+  <path d="M64 243H548" stroke="#27304A"/>
+  <text x="64" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 26 modules</text><text x="301" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 869 questions</text><text x="64" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 990 notions</text><text x="301" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Python + Vite</text>
+</g><g>
+  <rect x="598" y="100" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M616 110H674M608 118V176" fill="none" stroke="#9A72FF" stroke-width="2" opacity=".9"/>
+  <circle cx="1098" cy="127" r="5" fill="#9A72FF" filter="url(#softGlow)"><animate attributeName="r" values="3.5;6;3.5" dur="2.2s" begin="0.35s" repeatCount="indefinite"/></circle>
+  <text x="620" y="131" fill="#9A72FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">SLIDE INTELLIGENCE</text>
+  <text x="1078" y="131" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#02</text>
+  <text x="620" y="164" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Générateur intelligent de diaporamas"><tspan x="620" dy="0">Générateur intelligent de diaporamas</tspan></text>
+  <text x="620" y="211" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="React and Flask application using Gemini to analyze, improve and quality-check presentations."><tspan x="620" dy="0">React and Flask application using Gemini to analyze, improve</tspan><tspan x="620" dy="16">and quality-check presentations.</tspan></text>
+  <path d="M620 243H1104" stroke="#27304A"/>
+  <text x="620" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• React</text><text x="857" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Flask</text><text x="620" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Gemini API</text><text x="857" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Quality critic</text>
+</g><g>
+  <rect x="42" y="338" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M60 348H118M52 356V414" fill="none" stroke="#42F5C5" stroke-width="2" opacity=".9"/>
+  <circle cx="542" cy="365" r="5" fill="#42F5C5" filter="url(#softGlow)"><animate attributeName="r" values="3.5;6;3.5" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+  <text x="64" y="369" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">B2B DIGITAL EXPERIENCE</text>
+  <text x="522" y="369" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#03</text>
+  <text x="64" y="402" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Écosystème digital Secodi"><tspan x="64" dy="0">Écosystème digital Secodi</tspan></text>
+  <text x="64" y="449" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="UX/UI, B2B customer journeys, product content, analytics and CRM exploration."><tspan x="64" dy="0">UX/UI, B2B customer journeys, product content, analytics and</tspan><tspan x="64" dy="16">CRM exploration.</tspan></text>
+  <path d="M64 481H548" stroke="#27304A"/>
+  <text x="64" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Private case study</text><text x="301" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• UX/UI</text><text x="64" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Analytics</text><text x="301" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Product data</text>
+</g><g>
+  <rect x="598" y="338" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M616 348H674M608 356V414" fill="none" stroke="#FFB16D" stroke-width="2" opacity=".9"/>
+  <circle cx="1098" cy="365" r="5" fill="#FFB16D" filter="url(#softGlow)"><animate attributeName="r" values="3.5;6;3.5" dur="2.2s" begin="1.0499999999999998s" repeatCount="indefinite"/></circle>
+  <text x="620" y="369" fill="#FFB16D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">INDUSTRIAL FOUNDATION</text>
+  <text x="1078" y="369" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#04</text>
+  <text x="620" y="402" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="From machines to intelligent systems"><tspan x="620" dy="0">From machines to intelligent systems</tspan></text>
+  <text x="620" y="449" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="Industrial maintenance, hydraulics and field diagnosis translated into useful digital products."><tspan x="620" dy="0">Industrial maintenance, hydraulics and field diagnosis</tspan><tspan x="620" dy="16">translated into useful digital products.</tspan></text>
+  <path d="M620 481H1104" stroke="#27304A"/>
+  <text x="620" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Maintenance</text><text x="857" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Hydraulics</text><text x="620" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Field logic</text><text x="857" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• B2B business</text>
+</g>
+<!-- hero-animated:end -->
+</g>
+<g class="hero-static">
+<!-- hero-static:start -->
+<rect width="1180" height="610" rx="28" fill="#05060A"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="582" rx="22" fill="#0B0E16" stroke="#27304A"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#05060A"/>
+<path d="M38 72H1142" stroke="#27304A"/>
+<circle cx="43" cy="43" r="5" fill="#FFB16D"/><circle cx="61" cy="43" r="5" fill="#9A72FF"/><circle cx="79" cy="43" r="5" fill="#42F5C5"/>
+<text x="104" y="47" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">Selected Systems / Projets choisis</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#42F5C5" fill-opacity=".08" stroke="#42F5C5" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#42F5C5" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">PROOF OF WORK</text>
+<g>
+  <rect x="42" y="100" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M60 110H118M52 118V176" fill="none" stroke="#56E6FF" stroke-width="2" opacity=".9"/>
+  <circle cx="542" cy="127" r="5" fill="#56E6FF" filter="url(#softGlow)"></circle>
+  <text x="64" y="131" fill="#56E6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">AI LEARNING LAB</text>
+  <text x="522" y="131" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#01</text>
+  <text x="64" y="164" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Comprendre l&apos;intelligence artificielle"><tspan x="64" dy="0">Comprendre l&apos;intelligence artificielle</tspan></text>
+  <text x="64" y="211" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="AI-901 courses, adaptive quizzes, interactive maps and a complete learning website."><tspan x="64" dy="0">AI-901 courses, adaptive quizzes, interactive maps and a</tspan><tspan x="64" dy="16">complete learning website.</tspan></text>
+  <path d="M64 243H548" stroke="#27304A"/>
+  <text x="64" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 26 modules</text><text x="301" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 869 questions</text><text x="64" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• 990 notions</text><text x="301" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Python + Vite</text>
+</g><g>
+  <rect x="598" y="100" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M616 110H674M608 118V176" fill="none" stroke="#9A72FF" stroke-width="2" opacity=".9"/>
+  <circle cx="1098" cy="127" r="5" fill="#9A72FF" filter="url(#softGlow)"></circle>
+  <text x="620" y="131" fill="#9A72FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">SLIDE INTELLIGENCE</text>
+  <text x="1078" y="131" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#02</text>
+  <text x="620" y="164" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Générateur intelligent de diaporamas"><tspan x="620" dy="0">Générateur intelligent de diaporamas</tspan></text>
+  <text x="620" y="211" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="React and Flask application using Gemini to analyze, improve and quality-check presentations."><tspan x="620" dy="0">React and Flask application using Gemini to analyze, improve</tspan><tspan x="620" dy="16">and quality-check presentations.</tspan></text>
+  <path d="M620 243H1104" stroke="#27304A"/>
+  <text x="620" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• React</text><text x="857" y="266" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Flask</text><text x="620" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Gemini API</text><text x="857" y="288" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Quality critic</text>
+</g><g>
+  <rect x="42" y="338" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M60 348H118M52 356V414" fill="none" stroke="#42F5C5" stroke-width="2" opacity=".9"/>
+  <circle cx="542" cy="365" r="5" fill="#42F5C5" filter="url(#softGlow)"></circle>
+  <text x="64" y="369" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">B2B DIGITAL EXPERIENCE</text>
+  <text x="522" y="369" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#03</text>
+  <text x="64" y="402" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="Écosystème digital Secodi"><tspan x="64" dy="0">Écosystème digital Secodi</tspan></text>
+  <text x="64" y="449" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="UX/UI, B2B customer journeys, product content, analytics and CRM exploration."><tspan x="64" dy="0">UX/UI, B2B customer journeys, product content, analytics and</tspan><tspan x="64" dy="16">CRM exploration.</tspan></text>
+  <path d="M64 481H548" stroke="#27304A"/>
+  <text x="64" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Private case study</text><text x="301" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• UX/UI</text><text x="64" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Analytics</text><text x="301" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Product data</text>
+</g><g>
+  <rect x="598" y="338" width="528" height="210" rx="17" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <path d="M616 348H674M608 356V414" fill="none" stroke="#FFB16D" stroke-width="2" opacity=".9"/>
+  <circle cx="1098" cy="365" r="5" fill="#FFB16D" filter="url(#softGlow)"></circle>
+  <text x="620" y="369" fill="#FFB16D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing=".8">INDUSTRIAL FOUNDATION</text>
+  <text x="1078" y="369" text-anchor="end" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">#04</text>
+  <text x="620" y="402" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="19" font-weight="800" aria-label="From machines to intelligent systems"><tspan x="620" dy="0">From machines to intelligent systems</tspan></text>
+  <text x="620" y="449" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11.5" aria-label="Industrial maintenance, hydraulics and field diagnosis translated into useful digital products."><tspan x="620" dy="0">Industrial maintenance, hydraulics and field diagnosis</tspan><tspan x="620" dy="16">translated into useful digital products.</tspan></text>
+  <path d="M620 481H1104" stroke="#27304A"/>
+  <text x="620" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Maintenance</text><text x="857" y="504" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Hydraulics</text><text x="620" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• Field logic</text><text x="857" y="526" fill="#F5F7FF" fill-opacity=".85" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">• B2B business</text>
+</g>
+<!-- hero-static:end -->
+</g>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1180 360" role="img" aria-labelledby="analytics-dark-title analytics-dark-desc">
+  <title id="analytics-dark-title">Laouën Bernard — live digital profile</title>
+  <desc id="analytics-dark-desc">Animated bilingual command-center profile for Laouën Bernard.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#56E6FF"/><stop offset=".52" stop-color="#9A72FF"/><stop offset="1" stop-color="#42F5C5"/></linearGradient>
+    <filter id="softGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>.hero-static { display: none; } @media (prefers-reduced-motion: reduce) { .hero-animated { display: none; } .hero-static { display: inline; } }</style>
+  <g class="hero-animated">
+<!-- hero-animated:start -->
+<rect width="1180" height="360" rx="28" fill="#05060A"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="332" rx="22" fill="#0B0E16" stroke="#27304A"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#05060A"/>
+<path d="M38 72H1142" stroke="#27304A"/>
+<circle cx="43" cy="43" r="5" fill="#FFB16D"/><circle cx="61" cy="43" r="5" fill="#9A72FF"/><circle cx="79" cy="43" r="5" fill="#42F5C5"/>
+<text x="104" y="47" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">GitHub Analytics / Données vérifiées</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#42F5C5" fill-opacity=".08" stroke="#42F5C5" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#42F5C5" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">NO FAKE NUMBERS</text>
+<g>
+  <rect x="42" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="42" y="98" width="4" height="112" rx="2" fill="#56E6FF"/>
+  <text x="62" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="Repositories">Repositories</text>
+  <text x="62" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">13</text>
+  <text x="62" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">observed 2026-08-24</text>
+  <circle cx="266" cy="122" r="5" fill="#56E6FF" filter="url(#softGlow)"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+</g><g>
+  <rect x="320" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="320" y="98" width="4" height="112" rx="2" fill="#9A72FF"/>
+  <text x="340" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="AI modules">AI modules</text>
+  <text x="340" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">26</text>
+  <text x="340" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">AI-901 learning path</text>
+  <circle cx="544" cy="122" r="5" fill="#9A72FF" filter="url(#softGlow)"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+</g><g>
+  <rect x="598" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="598" y="98" width="4" height="112" rx="2" fill="#42F5C5"/>
+  <text x="618" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="Questions">Questions</text>
+  <text x="618" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">869</text>
+  <text x="618" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">adaptive quiz bank</text>
+  <circle cx="822" cy="122" r="5" fill="#42F5C5" filter="url(#softGlow)"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+</g><g>
+  <rect x="876" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="876" y="98" width="4" height="112" rx="2" fill="#FFB16D"/>
+  <text x="896" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="AI concepts">AI concepts</text>
+  <text x="896" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">990</text>
+  <text x="896" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">interactive domain map</text>
+  <circle cx="1100" cy="122" r="5" fill="#FFB16D" filter="url(#softGlow)"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="0.8999999999999999s" repeatCount="indefinite"/></circle>
+</g>
+<text x="42" y="236" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing=".8">VISUAL SYSTEM TRACE — decorative activity signal, not a time-series claim</text>
+<path d="M62 308H1118" stroke="#27304A" stroke-dasharray="3 7"/>
+<path d="M62 290 C130 250 164 302 232 270 S348 290 420 246 S550 287 625 258 S762 291 838 235 S971 276 1118 242" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)" stroke-dasharray="1200" stroke-dashoffset="1200"><animate attributeName="stroke-dashoffset" values="1200;0" dur="3.6s" fill="freeze"/></path>
+<path d="M62 290 C130 250 164 302 232 270 S348 290 420 246 S550 287 625 258 S762 291 838 235 S971 276 1118 242" fill="none" stroke="#F5F7FF" stroke-opacity=".28" stroke-width="1.2" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="0;-52" dur="3s" repeatCount="indefinite"/></path>
+<text x="42" y="338" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">Verified profile metrics only · live contribution data appears in the arcade.</text>
+<!-- hero-animated:end -->
+</g>
+<g class="hero-static">
+<!-- hero-static:start -->
+<rect width="1180" height="360" rx="28" fill="#05060A"/>
+<circle cx="120" cy="-20" r="230" fill="url(#accent)" opacity=".08"/>
+<rect x="14" y="14" width="1152" height="332" rx="22" fill="#0B0E16" stroke="#27304A"/>
+<rect x="14" y="14" width="1152" height="58" rx="22" fill="#05060A"/>
+<path d="M38 72H1142" stroke="#27304A"/>
+<circle cx="43" cy="43" r="5" fill="#FFB16D"/><circle cx="61" cy="43" r="5" fill="#9A72FF"/><circle cx="79" cy="43" r="5" fill="#42F5C5"/>
+<text x="104" y="47" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="800">GitHub Analytics / Données vérifiées</text>
+<rect x="910" y="29" width="215" height="28" rx="9" fill="#42F5C5" fill-opacity=".08" stroke="#42F5C5" stroke-opacity=".55"/>
+<circle cx="926" cy="43" r="3" fill="#42F5C5" filter="url(#softGlow)"/>
+<text x="937" y="47" fill="#42F5C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700">NO FAKE NUMBERS</text>
+<g>
+  <rect x="42" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="42" y="98" width="4" height="112" rx="2" fill="#56E6FF"/>
+  <text x="62" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="Repositories">Repositories</text>
+  <text x="62" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">13</text>
+  <text x="62" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">observed 2026-08-24</text>
+  <circle cx="266" cy="122" r="5" fill="#56E6FF" filter="url(#softGlow)"></circle>
+</g><g>
+  <rect x="320" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="320" y="98" width="4" height="112" rx="2" fill="#9A72FF"/>
+  <text x="340" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="AI modules">AI modules</text>
+  <text x="340" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">26</text>
+  <text x="340" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">AI-901 learning path</text>
+  <circle cx="544" cy="122" r="5" fill="#9A72FF" filter="url(#softGlow)"></circle>
+</g><g>
+  <rect x="598" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="598" y="98" width="4" height="112" rx="2" fill="#42F5C5"/>
+  <text x="618" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="Questions">Questions</text>
+  <text x="618" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">869</text>
+  <text x="618" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">adaptive quiz bank</text>
+  <circle cx="822" cy="122" r="5" fill="#42F5C5" filter="url(#softGlow)"></circle>
+</g><g>
+  <rect x="876" y="98" width="250" height="112" rx="15" fill="#05060A" fill-opacity=".5" stroke="#27304A"/>
+  <rect x="876" y="98" width="4" height="112" rx="2" fill="#FFB16D"/>
+  <text x="896" y="126" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="700" aria-label="AI concepts">AI concepts</text>
+  <text x="896" y="169" fill="#F5F7FF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="800">990</text>
+  <text x="896" y="193" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10.5">interactive domain map</text>
+  <circle cx="1100" cy="122" r="5" fill="#FFB16D" filter="url(#softGlow)"></circle>
+</g>
+<text x="42" y="236" fill="#8F99B0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing=".8">VISUAL SYSTEM TRACE — decorative activity signal, not a time-series claim</text>
+<path d="M62 308H1118" stroke="#27304A" stroke-dasharray="3 7"/>
+<path d="M62 290 C130 250 164 302 232 270 S348 290 420 246 S550 287 625 258 S762 291 838 235 S971 276 1118 242" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)" stroke-dasharray="1200" stroke-dashoffset="0"></path>
+<path d="M62 290 C130 250 164 302 232 270 S348 290 420 246 S550 287 625 258 S762 291 838 235 S971 276 1118 242" fill="none" stroke="#F5F7FF" stroke-opacity=".28" stroke-width="1.2" stroke-dasharray="5 8"></path>
+<text x="42" y="338" fill="#8F99B0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">Verified profile metrics only · live contribution data appears in the arcade.</text>
+<!-- hero-static:end -->
+</g>
+</svg>

@@ -1,0 +1,35 @@
+name: Generate contribution arcade
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile source
+        uses: actions/checkout@v4
+      - name: Generate contribution snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: LALA44599
+          outputs: |
+            dist/raw-dark.svg?palette=github-dark&color_snake=#56E6FF
+            dist/raw-light.svg?palette=github-light&color_snake=#087EA4
+      - name: Add Neon Command Center robot
+        run: |
+          node scripts/decorate-snake.mjs --input dist/raw-dark.svg --output dist/arcade-dark.svg --theme dark
+          node scripts/decorate-snake.mjs --input dist/raw-light.svg --output dist/arcade-light.svg --theme light
+          rm dist/raw-dark.svg dist/raw-light.svg
+      - name: Publish generated arcade files
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
